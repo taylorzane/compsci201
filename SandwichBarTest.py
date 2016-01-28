@@ -1,4 +1,7 @@
+#!/usr/bin/python
+
 import unittest
+
 from SandwichBar import whichOrder
 
 class Test(unittest.TestCase):
