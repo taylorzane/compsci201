@@ -38,3 +38,18 @@ git add -A .
 git commit -m "" # Write a meaningful commit message in the quotes
 git push
 ```
+
+### Resources
+
+#### Python
+  - [An Informal Introduction to Python](https://docs.python.org/2/tutorial/introduction.html)
+  - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
+#### Stack Overflow
+
+Stack Overflow is usually the top Google result for any specific code question. For example:
+
+  - "python list difference" yields [Python, compute list difference](https://stackoverflow.com/questions/6486450/python-compute-list-difference)
+  - "python for loop index" yields [Accessing the index in Python for loops](https://stackoverflow.com/questions/522563/accessing-the-index-in-python-for-loops)
+
+> It is absolutely not cheating to search for specific answers to specific questions, especially when the questions are about syntax or best practices. With syntax questions, you know what you want to do, but you do not know how to express it. With best practices, you do not have the experience to know which approach might be best.
